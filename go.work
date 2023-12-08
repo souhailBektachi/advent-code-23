@@ -1,0 +1,8 @@
+go 1.21.4
+
+use ./day4/parte1
+
+use (
+	./day3/parte1
+	./day3/parte2
+)
